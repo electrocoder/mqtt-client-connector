@@ -11,6 +11,6 @@ Project started.
 
 ### 0.0.2
 
-gitignıre and project name files added.
+gitignore and project name files added.
 
 **Enjoy!**
