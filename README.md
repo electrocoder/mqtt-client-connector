@@ -17,4 +17,8 @@ gitignore and project name files added.
 
 .html file bugfix
 
+### 0.0.4
+
+add icon and change webview page.
+
 **Enjoy!**
