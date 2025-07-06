@@ -13,4 +13,8 @@ Project started.
 
 gitignore and project name files added.
 
+### 0.0.3
+
+.html file bugfix
+
 **Enjoy!**

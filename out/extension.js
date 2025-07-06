@@ -45,7 +45,7 @@ function activate(context) {
         const panel = vscode.window.createWebviewPanel('mqttConnector', 'MQTT Client Connector and send message', vscode.ViewColumn.One, {
             enableScripts: true
         });
-        const htmlPath = path.join(context.extensionPath, 'src', 'webview.html');
+        const htmlPath = path.join(context.extensionPath, 'src', './webview.html');
         let htmlContent = fs.readFileSync(htmlPath, 'utf8');
         panel.webview.html = htmlContent;
         panel.webview.onDidReceiveMessage(async (message) => {

@@ -16,7 +16,7 @@ export function activate(context: vscode.ExtensionContext) {
             }
         );
 
-        const htmlPath = path.join(context.extensionPath, 'src', 'webview.html');
+        const htmlPath = path.join(context.extensionPath, 'src', './webview.html');
         let htmlContent = fs.readFileSync(htmlPath, 'utf8');
         panel.webview.html = htmlContent;
 

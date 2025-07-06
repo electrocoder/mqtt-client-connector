@@ -2,7 +2,7 @@
   "name": "mqtt-client-connector",
   "displayName": "MQTT Client Connector",
   "description": "MQTT Broker manages the connection information and sends messages",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": "https://github.com/electrocoder/mqtt-client-connector",
   "publisher": "electrocoder",
   "engines": {
@@ -17,7 +17,7 @@
     "commands": [
       {
         "command": "mqtt-client-connector.connect",
-        "title": "MQTT: Connect"
+        "title": "MQTT Client Connector"
       }
     ]
   },
