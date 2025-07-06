@@ -5,6 +5,7 @@
   "version": "0.0.3",
   "repository": "https://github.com/electrocoder/mqtt-client-connector",
   "publisher": "electrocoder",
+  "icon": "media/mqtt-client-connector.png",
   "engines": {
     "vscode": "^1.101.0"
   },
