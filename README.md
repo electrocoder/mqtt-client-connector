@@ -9,4 +9,8 @@ This is README for your "mqtt-client-connector" extension. This plugin allows to
 
 Project started.
 
+### 0.0.2
+
+gitignıre and project name files added.
+
 **Enjoy!**
